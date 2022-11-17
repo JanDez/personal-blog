@@ -1,6 +1,6 @@
 {
   "name": "nextarter-chakra",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": true,
   "author": "sozonome",
   "scripts": {
@@ -20,7 +20,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.3.6",
+    "@chakra-ui/react": "^2.4.1",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "framer-motion": "^7.6.1",

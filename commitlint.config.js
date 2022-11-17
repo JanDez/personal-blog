@@ -2,13 +2,24 @@
 const CommitLintConfiguration = {
   extends: ["@commitlint/config-conventional"],
   rules: {
-    // add your own scope here if needed
-    "scope-enum": [
+    "type-enum": [
       2,
       "always",
-      ["components", "layout", "pages", "styles", "utils", "types"],
+      [
+        "build",
+        "chore",
+        "ci",
+        "docs",
+        "feat",
+        "fix",
+        "perf",
+        "refactor",
+        "revert",
+        "style",
+        "test",
+        "button",
+      ],
     ],
-    "scope-case": [2, "always", "kebab-case"],
   },
 };
 
