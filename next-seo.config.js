@@ -1,24 +1,24 @@
 /** @type {import('next-seo').DefaultSeoProps} */
 const defaultSEOConfig = {
-  title: "nextarter-chakra",
-  titleTemplate: "%s | nextarter-chakra",
-  defaultTitle: "nextarter-chakra",
-  description: "Next.js + chakra-ui + TypeScript template",
-  canonical: "https://nextarter-chakra.sznm.dev",
+  title: "Jaifran's Blog",
+  titleTemplate: "%s | Jaifran's Blog",
+  defaultTitle: "jaifran.xyz",
+  description: "HTML + CSS + JavaScript + TypeScript + Personal blog + NextJS + FrontEnd + ReactJS + Backend + NextJS + Jaifran Hernández + Articles + Artículos + Programación + Programming + Web Development + Tutorials + Tutoriales + Rust + Blockchain",
+  canonical: "https://jaifran.xyz",
   openGraph: {
-    url: "https://nextarter-chakra.sznm.dev",
-    title: "nextarter-chakra",
-    description: "Next.js + chakra-ui + TypeScript template",
+    url: "https://jaifran.xyz",
+    title: "Jaifran's Blog",
+    description: "HTML + CSS + JavaScript + TypeScript + Personal blog + NextJS + FrontEnd + ReactJS + Backend + NextJS + Jaifran Hernández + Articles + Artículos + Programación + Programming + Web Development + Tutorials + Tutoriales + Rust + Blockchain",
     images: [
       {
-        url: "https://og-image.sznm.dev/**nextarter-chakra**.sznm.dev.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fsznm.dev%2Favataaars.svg&widths=250",
-        alt: "nextarter-chakra.sznm.dev og-image",
+        url: "https://ksmvkqchpodxpwtmihso.supabase.co/storage/v1/object/public/personal-blog-files/jaifran_flyer.png?t=2022-11-17T10%3A33%3A11.716Z",
+        alt: "jaifran.xyz flyer-image",
       },
     ],
-    site_name: "nextarter-chakra",
+    site_name: "jaifran.xyz",
   },
   twitter: {
-    handle: "@sozonome",
+    handle: "@jandez97",
     cardType: "summary_large_image",
   },
 };
