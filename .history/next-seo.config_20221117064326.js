@@ -12,7 +12,7 @@ const defaultSEOConfig = {
     images: [
       {
         url: "https://ksmvkqchpodxpwtmihso.supabase.co/storage/v1/object/public/personal-blog-files/jaifran_flyer.png?t=2022-11-17T10%3A33%3A11.716Z",
-        alt: "jaifran.xyz flyer-image",
+        alt: "jaifran. og-image",
       },
     ],
     site_name: "jaifran.xyz",

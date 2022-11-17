@@ -4,21 +4,21 @@ const defaultSEOConfig = {
   titleTemplate: "%s | Jaifran's Blog",
   defaultTitle: "jaifran.xyz",
   description: "HTML + CSS + JavaScript + TypeScript + Personal blog + NextJS + FrontEnd + ReactJS + Backend + NextJS + Jaifran Hernández + Articles + Artículos + Programación + Programming + Web Development + Tutorials + Tutoriales + Rust + Blockchain",
-  canonical: "https://jaifran.xyz",
+  canonical: "jaifran",
   openGraph: {
-    url: "https://jaifran.xyz",
-    title: "Jaifran's Blog",
-    description: "HTML + CSS + JavaScript + TypeScript + Personal blog + NextJS + FrontEnd + ReactJS + Backend + NextJS + Jaifran Hernández + Articles + Artículos + Programación + Programming + Web Development + Tutorials + Tutoriales + Rust + Blockchain",
+    url: "https://nextarter-chakra.sznm.dev",
+    title: "nextarter-chakra",
+    description: "Next.js + chakra-ui + TypeScript template",
     images: [
       {
         url: "https://ksmvkqchpodxpwtmihso.supabase.co/storage/v1/object/public/personal-blog-files/jaifran_flyer.png?t=2022-11-17T10%3A33%3A11.716Z",
-        alt: "jaifran.xyz flyer-image",
+        alt: "nextarter-chakra.sznm.dev og-image",
       },
     ],
-    site_name: "jaifran.xyz",
+    site_name: "nextarter-chakra",
   },
   twitter: {
-    handle: "@jandez97",
+    handle: "@sozonome",
     cardType: "summary_large_image",
   },
 };
