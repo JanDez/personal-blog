@@ -1,13 +1,4 @@
-<img src="https://og.sznm.dev/api/generate?heading=nextarter-chakra&text=Next.js+template+with+Chakra-UI+and+TypeScript+setup.&template=color&center=true&height=320" />
-
-<div align="center">
-  <a href="https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-chakra" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel" /></a> <a href="https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-chakra" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" /></a> <a href="https://railway.app/new/template/aqmmai?referralCode=9lKVVo" target="_blank"><img src="https://railway.app/button.svg" alt="Deploy on Railway" height="32px" /></a>
-
-<a href="https://stackblitz.com/github/sozonome/nextarter-chakra" target="_blank"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt="Open in StackBlitz" /></a>
-
-  <p>This is a <a href="https://nextjs.org/" target="_blank">Next.js</a> project bootstrapped with <code>create-next-app</code>, added with <a href="https://chakra-ui.com" target="_blank"><b>Chakra UI</b></a> and <a href="https://www.typescriptlang.org" target="_blank"><b>TypeScript</b></a> setup. <br/> Start developing right away!</p>
-
-</div>
+<img src="https://ksmvkqchpodxpwtmihso.supabase.co/storage/v1/object/public/personal-blog-files/media/blog-flyer-low.png?t=2022-11-17T11%3A56%3A57.290Z"/>
 
 ## 🔋 ⚡ Battery Packed template
 
