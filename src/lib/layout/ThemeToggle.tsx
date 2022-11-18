@@ -7,7 +7,7 @@ const ThemeToggle = () => {
   return (
     <IconButton
       aria-label="theme toggle"
-      icon={colorMode === "light" ? <RiMoonFill /> : <RiSunLine />}
+      icon={colorMode === "dark" ? <RiMoonFill /> : <RiSunLine />}
       onClick={toggleColorMode}
     />
   );
