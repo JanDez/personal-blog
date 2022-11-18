@@ -1,4 +1,5 @@
 /* eslint-disable react/jsx-props-no-spreading */
+import { Analytics } from "@vercel/analytics/react";
 import { DefaultSeo } from "next-seo";
 import type { AppProps } from "next/app";
 import Head from "next/head";
@@ -20,6 +21,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
       <DefaultSeo {...defaultSEOConfig} />
       <Layout>
         <Component {...pageProps} />
+        <Analytics />
       </Layout>
     </Chakra>
   );
