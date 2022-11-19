@@ -13,10 +13,7 @@ const Meta = () => {
 
       <meta property="og:type" content="website" />
       <meta property="og:url" content={APP_NAME} />
-      <meta
-        property="og:image"
-        content="https://ksmvkqchpodxpwtmihso.supabase.co/storage/v1/object/public/personal-blog-files/media/blog-flyer-low.png?t=2022-11-19T16%3A31%3A54.893Z"
-      />
+      <meta property="og:image" content="../../../public/blog_flyer_high.png" />
 
       <link rel="shortcut icon" href="/favicon.ico" />
 
