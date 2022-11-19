@@ -3,15 +3,17 @@ const defaultSEOConfig = {
   title: "Jaifran's Blog",
   titleTemplate: "%s | Jaifran's Blog",
   defaultTitle: "jaifran.xyz",
-  description: "HTML + CSS + JavaScript + TypeScript + Personal blog + NextJS + FrontEnd + ReactJS + Backend + NextJS + Jaifran Hernández + Articles + Artículos + Programación + Programming + Web Development + Tutorials + Tutoriales + Rust + Blockchain",
+  description:
+    "Helping developers solve commun issues. Main topics: React, NextJs, CSS, JavaScript, Three.js",
   canonical: "https://jaifran.xyz",
   openGraph: {
     url: "https://jaifran.xyz",
     title: "Jaifran's Blog",
-    description: "HTML + CSS + JavaScript + TypeScript + Personal blog + NextJS + FrontEnd + ReactJS + Backend + NextJS + Jaifran Hernández + Articles + Artículos + Programación + Programming + Web Development + Tutorials + Tutoriales + Rust + Blockchain",
+    description:
+      "Helping developers solve commun issues. Main topics: React, NextJs, CSS, JavaScript, Three.js",
     images: [
       {
-        url: "https://ksmvkqchpodxpwtmihso.supabase.co/storage/v1/object/public/personal-blog-files/jaifran_flyer.png?t=2022-11-17T10%3A33%3A11.716Z",
+        url: "./public/blog_flyer_high.png",
         alt: "jaifran.xyz flyer-image",
       },
     ],
