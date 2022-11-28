@@ -13,7 +13,7 @@ const CTASection = () => {
   return (
     <Box textAlign="center">
       <Flex justifyContent="center" alignItems="center" gap={2}>
-        <Link href={linkedin}>
+        <Link href={github}>
           <Image
             alt="GitHub Logo"
             src={cdnGithub}
@@ -22,7 +22,7 @@ const CTASection = () => {
             layout="responsive"
           />
         </Link>
-        <Link href={github}>
+        <Link href={linkedin}>
           <Image
             alt="GitHub Logo"
             src={cdnLindedin}
