@@ -17,3 +17,9 @@ module.exports = withPWA({
     dirs: ["src"],
   },
 });
+
+module.exports = {
+  images: {
+    domains: ["img.icons8.com"],
+  },
+};

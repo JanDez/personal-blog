@@ -7,9 +7,7 @@ const SomeImage = () => {
 
   return (
     <Flex gap={2} justifyContent="center" alignItems="center">
-      <HelperImage src={`/nextjs-icon-${colorMode}.svg`} label="NextJS" />
-      <HelperImage src="/chakra-ui-logomark-colored.svg" label="Chakra UI" />
-      <HelperImage src="/ts-logo-512.svg" label="TypeScript" />
+      <HelperImage src={`/logo-${colorMode}.svg`} label="Jaifran Hernández" />
     </Flex>
   );
 };
