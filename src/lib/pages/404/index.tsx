@@ -52,7 +52,7 @@ const Page404 = () => {
           <Button
             as={Link}
             href="/"
-            backgroundColor={colorMode === "light" ? "gray.300" : "teal.500"}
+            backgroundColor={colorMode === "light" ? "gray.900" : "teal.500"}
             size="sm"
           >
             Let&apos;s Head Back

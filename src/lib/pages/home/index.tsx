@@ -1,9 +1,8 @@
 import { Flex } from "@chakra-ui/react";
 import { NextSeo } from "next-seo";
 
-import CTASection from "lib/components/samples/CTASection";
-import SomeImage from "lib/components/samples/SomeImage";
-import SomeText from "lib/components/samples/SomeText";
+import CTASection from "lib/components/components/CTASection";
+import SomeImage from "lib/components/components/SomeImage";
 
 const Home = () => {
   return (
@@ -13,11 +12,10 @@ const Home = () => {
       justifyContent="center"
       minHeight="70vh"
       gap={4}
-      mb={8}
+      mb={6}
       w="full"
     >
       <NextSeo title="Home" />
-      <SomeText />
       <SomeImage />
       <CTASection />
     </Flex>
